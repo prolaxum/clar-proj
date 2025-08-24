@@ -9,6 +9,9 @@ Tech stack
 - Network: Stacks Testnet / Mainnet
 - Language/Platform: Stacks blockchain
 
+Contract Address
+ST3CSMERVRFN2D6VRK6RP9S3AP7W8SWA93FQ8DWEW.simple-token
+
 Repository structure
 project-name/
 ├── contracts/
