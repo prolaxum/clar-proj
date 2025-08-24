@@ -11,6 +11,8 @@ Tech stack
 
 Contract Address
 ST3CSMERVRFN2D6VRK6RP9S3AP7W8SWA93FQ8DWEW.simple-token
+<img width="1903" height="975" alt="image" src="https://github.com/user-attachments/assets/9f1206d1-c4ba-410c-8dd3-1433febb53a4" />
+
 
 Repository structure
 project-name/
